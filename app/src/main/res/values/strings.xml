@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">drawnav</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="movie">Movie</string>
+    <string name="tv">TV Shows</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+
+    <string name="title">Title</string>
+    <string name="ori_title">Original Title</string>
+    <string name="rel_date">Release Date</string>
+    <string name="language">Language</string>
+    <string name="overview">Overview</string>
+
+    <string name="name">Name</string>
+    <string name="ori_name">Original Name</string>
+    <string name="fi_date">First Air Date</string>
+
+    <string name="email">Email</string>
+
+    <string name="change">Change Language</string>
+
+    <string name="detail">Detail</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">drawnav</string>
+    <string name="open">buka</string>
+    <string name="close">tutup</string>
+    <string name="movie">Film</string>
+    <string name="tv">Acara TV</string>
+    <string name="home">Beranda</string>
+    <string name="profile">Profil</string>
+    <string name="setting">Pengaturan</string>
+
+    <string name="title">Judul</string>
+    <string name="ori_title">Judul Asli</string>
+    <string name="rel_date">Tanggal Rilis</string>
+    <string name="language">Bahasa</string>
+    <string name="overview">Sinopsis</string>
+
+    <string name="name">Nama</string>
+    <string name="ori_name">Nama Asli</string>
+    <string name="fi_date">Tayangan Awal</string>
+
+    <string name="email">Email</string>
+
+    <string name="change">Ganti Bahasa</string>
+
+    <string name="detail">Selengkapnya</string>
+</resources>
